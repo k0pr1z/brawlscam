@@ -18,8 +18,8 @@ logging.basicConfig(level=logging.INFO)
 
 storage = MemoryStorage()
 
-TOKEN = "5407566009:AAENFUNG7i3P9YoQIF01oDP092lb-CBt_2w"
-ID = 942437699
+TOKEN = 
+ID = 
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot, storage=storage)
